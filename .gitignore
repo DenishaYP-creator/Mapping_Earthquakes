@@ -1,5 +1,6 @@
 #ignore all logs *.log 
-
+# Ignore the config.js file.
+config.js
 
 
 # Byte-compiled / optimized / DLL files
