@@ -1,5 +1,4 @@
-$ touch .gitignore
-config.js
+config.js.gitignore
 config.py
 
 # Byte-compiled / optimized / DLL files
