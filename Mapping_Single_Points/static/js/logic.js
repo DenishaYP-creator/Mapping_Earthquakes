@@ -9,7 +9,9 @@ console.log("working");
 //+++++Add a Map Object++++++
 // Create the map object with a center and zoom level.
 let map = L.map('mapid').setView([40.7, -94.5], 4);
-
+//Add a Marker to the Map
+var marker = L.marker([51.5, -0.09]).addTo(map);
+let marker = L.marker([34.0522, -118.2437]).addTo(map);
 
 
 //++++++++++Add a Tile Layer for Our Map++++++++++++
